@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4647887E-19E1-4DF0-8ADF-5296A8B0E50D}"
+	ProjectSection(SolutionItems) = preProject
+		Travelopia.Assignment.Data\Travelopia.Assignment.Data.csproj = Travelopia.Assignment.Data\Travelopia.Assignment.Data.csproj
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelopia.Assignment.API", "Travelopia.Assignment.API\Travelopia.Assignment.API.csproj", "{3D7D2EA0-91FB-48E3-87F4-2039297B8CCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelopia.Assignment.Business", "Travelopia.Assignment.Business\Travelopia.Assignment.Business.csproj", "{1196DD63-2B35-4B34-BD95-F84F6AC7FB0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelopia.Assignment.Entity", "Travelopia.Assignment.Entity\Travelopia.Assignment.Entity.csproj", "{1123B2A0-6386-46B1-B05B-A2E516061B43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D7D2EA0-91FB-48E3-87F4-2039297B8CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7D2EA0-91FB-48E3-87F4-2039297B8CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7D2EA0-91FB-48E3-87F4-2039297B8CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7D2EA0-91FB-48E3-87F4-2039297B8CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1196DD63-2B35-4B34-BD95-F84F6AC7FB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1196DD63-2B35-4B34-BD95-F84F6AC7FB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1196DD63-2B35-4B34-BD95-F84F6AC7FB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1196DD63-2B35-4B34-BD95-F84F6AC7FB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1123B2A0-6386-46B1-B05B-A2E516061B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1123B2A0-6386-46B1-B05B-A2E516061B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1123B2A0-6386-46B1-B05B-A2E516061B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1123B2A0-6386-46B1-B05B-A2E516061B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF4D038-4A48-4B67-87CD-113D054BDDD9}
+	EndGlobalSection
+EndGlobal
