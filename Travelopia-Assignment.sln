@@ -4,15 +4,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4647887E-19E1-4DF0-8ADF-5296A8B0E50D}"
-	ProjectSection(SolutionItems) = preProject
-		Travelopia.Assignment.Data\Travelopia.Assignment.Data.csproj = Travelopia.Assignment.Data\Travelopia.Assignment.Data.csproj
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelopia.Assignment.API", "Travelopia.Assignment.API\Travelopia.Assignment.API.csproj", "{3D7D2EA0-91FB-48E3-87F4-2039297B8CCB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelopia.Assignment.Business", "Travelopia.Assignment.Business\Travelopia.Assignment.Business.csproj", "{1196DD63-2B35-4B34-BD95-F84F6AC7FB0C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelopia.Assignment.Entity", "Travelopia.Assignment.Entity\Travelopia.Assignment.Entity.csproj", "{1123B2A0-6386-46B1-B05B-A2E516061B43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travelopia.Assignment.Data", "Travelopia.Assignment.Data\Travelopia.Assignment.Data.csproj", "{0AA306AF-E8F2-4A2D-89C3-6959C052D3A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +31,10 @@ Global
 		{1123B2A0-6386-46B1-B05B-A2E516061B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1123B2A0-6386-46B1-B05B-A2E516061B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1123B2A0-6386-46B1-B05B-A2E516061B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA306AF-E8F2-4A2D-89C3-6959C052D3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA306AF-E8F2-4A2D-89C3-6959C052D3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA306AF-E8F2-4A2D-89C3-6959C052D3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA306AF-E8F2-4A2D-89C3-6959C052D3A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
